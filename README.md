@@ -1,4 +1,4 @@
-> **Disclaimer:** This README and repository documentation were mainly AI-generated. The underlying models, assumptions, and theorems were manually and carefully reviewed.
+> **Disclaimer:** Repository content was mainly AI-generated. The models, assumptions, and theorems were manually and carefully reviewed.
 
 # Lean Verification
 
